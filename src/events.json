@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "React Summit 2025",
+        "description": "The biggest React conference of the year. Join thousands of developers to learn about the latest in React, Next.js, and the broader ecosystem.",
+        "img": "react.jpg",
+        "price": 199,
+        "nbTickets": 500,
+        "nbParticipants": 320,
+        "like": true
+    },
+    {
+        "id": 2,
+        "name": "JavaScript World Tour",
+        "description": "A worldwide tour celebrating JavaScript. Sessions on Node.js, TypeScript, performance optimization, and modern tooling.",
+        "img": "js.jpg",
+        "price": 120,
+        "nbTickets": 300,
+        "nbParticipants": 180,
+        "like": false
+    },
+    {
+        "id": 3,
+        "name": "Open Source Festival",
+        "description": "Celebrate the spirit of open-source contributions. Workshops, hackathons, and talks from top contributors around the world.",
+        "img": "op.jpg",
+        "price": 0,
+        "nbTickets": 1000,
+        "nbParticipants": 750,
+        "like": true
+    },
+    {
+        "id": 4,
+        "name": "UI/UX Design Conf",
+        "description": "Explore the intersection of design and engineering. Talks on Figma, accessibility, design systems, and user experience research.",
+        "img": "react.jpg",
+        "price": 80,
+        "nbTickets": 200,
+        "nbParticipants": 95,
+        "like": false
+    }
+]
